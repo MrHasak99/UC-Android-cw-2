@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coded Workshop</string>
+    <string name="first_number">First Number</string>
+    <string name="result">Result</string>
+    <string name="calculator">Calculator</string>
+    <string name="second_number">Second Number</string>
+    <string name="calculate">Calculate</string>
+</resources>
